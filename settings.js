@@ -17,28 +17,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
+global.INBOX_BLOCK = 'on' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
+global.owner = ['0781283816'] //ur owner number
+global.ownername = "Sandusha Kawshalya" //ur owner name
+global.ytname = "YT: BAD ALVIN" //ur yt chanel name
+global.socialm = "GitHub: BadAlvin" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "94781283816" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.premium = ['94781283816'] //ur premium number
+global.botname = '𝐁𝐀𝐃 𝐀𝐋𝐕𝐈𝐍 𝐁𝐎𝐓' //ur bot name
+global.linkz = "https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "BY SANDUSHA KAWSHALYA" //ur sticker watermark packname
+global.author = "Bad Alvin Bot Creating By Cyber Yakuza Team" //ur sticker watermark author
+global.wm = "SANDUSHA KAWSHALYA" //ur watermark
 
 // Other
 global.sessionName = 'session'
